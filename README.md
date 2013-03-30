@@ -1,4 +1,4 @@
-shapeways
+Shapeways
 =========
 
 3D printing

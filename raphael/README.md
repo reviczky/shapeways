@@ -13,3 +13,12 @@ Golden Cross
 
 
 **φ** *= (1 + √5) / 2 ≈ 1.618 034*
+
+Shapeways
+=========
+
+[STL](http://www.shapeways.com/tutorials/exporting-from-blender)
+
+[Premium Silver](http://www.shapeways.com/materials/silver)
+
+[Design Guidelines](http://www.shapeways.com/materials/silver-design-guidelines)

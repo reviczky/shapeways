@@ -2,12 +2,12 @@
 height:  (2mm,2mm,26.18mm)    - (0,-3.09mm,0)
 width:   (2mm,2mm,16.18mm)
 
-[segments: 48/12, radius 7mm]
+[segments: 192/96, radius 7mm]
 torus:   (7mm,7mm,2mm)
-[rings: 32/16]
+[rings:    160/80]
 sphere:  (6mm,6mm,3mm)
 
-[segments: 48/12, radius 5mm/3mm]
+[segments: 192/96, radius 5mm/3mm]
 hanger:  (5mm,5mm,2mm)        - (0,12mm,0)
 
 raphael: (3.038mm,3.45mm,1mm) - (-1.5mm,-1.5mm,1.25mm)

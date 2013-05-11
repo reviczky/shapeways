@@ -22,3 +22,8 @@ Shapeways
 [Premium Silver](http://www.shapeways.com/materials/silver)
 
 [Design Guidelines](http://www.shapeways.com/materials/silver-design-guidelines)
+
+Blender
+=======
+
+[Print Tools](http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.67/Print_Tools)

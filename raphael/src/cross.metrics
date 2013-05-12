@@ -1,6 +1,7 @@
 [vertices: 256]
 height:  (1.5mm,1.5mm,26.18mm)    - (0,-3.09mm,0)
 width:   (1.5mm,1.5mm,16.18mm)
+middle:  (1.5mm,1.5mm,6mm)
 
 [segments: 192/96, radius 7mm]
 torus:   (7mm,7mm,1.5mm)

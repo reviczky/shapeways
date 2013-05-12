@@ -1,14 +1,14 @@
 [vertices: 256]
-height:  (2mm,2mm,26.18mm)    - (0,-3.09mm,0)
-width:   (2mm,2mm,16.18mm)
+height:  (1.5mm,1.5mm,26.18mm)    - (0,-3.09mm,0)
+width:   (1.5mm,1.5mm,16.18mm)
 
 [segments: 192/96, radius 7mm]
-torus:   (7mm,7mm,2mm)
+torus:   (7mm,7mm,1.5mm)
 [rings:    160/80]
-sphere:  (6mm,6mm,3mm)
+sphere:  (6mm,6mm,2.5mm)
 
 [segments: 192/96, radius 5mm/3mm]
-hanger:  (5mm,5mm,2mm)        - (0,12mm,0)
+hanger:  (5mm,5mm,1.5mm)        - (0,12mm,0)
 
 raphael: (3.038mm,3.45mm,1mm) - (-1.5mm,-1.5mm,1.25mm)
 adam:    (3.842mm,3.45mm,1mm) - (-1.5mm,-1.5mm,-1.25mm)

@@ -15,5 +15,5 @@ support: (8.09mm,8.09mm,0)
 hanger:  (5mm,5mm,1.5mm)        - (0,12mm,0)
 
 [extrusion: 0.2mm, bevel: 0.01mm, resolution: 1]
-raphael: (3.038mm,3.45mm,1mm) - (-1.4mm,-1.25mm,1.1mm)
-adam:    (3.842mm,3.45mm,1mm) - (-1.5mm,-1.5mm,-1.1mm)
+raphael: (3.038mm,3.45mm,1mm) - (-1.371mm,-1.485mm,1.1mm)
+adam:    (3.842mm,3.45mm,1mm) - (-1.27mm,-1.335mm,-1.1mm)

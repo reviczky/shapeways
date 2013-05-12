@@ -11,5 +11,5 @@ sphere:  (6mm,6mm,2.5mm)
 [segments: 192/96, radius 5mm/3mm]
 hanger:  (5mm,5mm,1.5mm)        - (0,12mm,0)
 
-raphael: (3.038mm,3.45mm,1mm) - (-1.5mm,-1.5mm,1.25mm)
-adam:    (3.842mm,3.45mm,1mm) - (-1.5mm,-1.5mm,-1.25mm)
+raphael: (3.038mm,3.45mm,1mm) - (-1.4mm,-1.25mm,1mm)
+adam:    (3.842mm,3.45mm,1mm) - (-1.5mm,-1.5mm,-1mm)

@@ -13,6 +13,8 @@ support: (8.09mm,8.09mm,0)
 
 [segments: 192/96, radius 5mm/3mm]
 hanger:  (5mm,5mm,1.5mm)       - (0,12mm,0)
+[radius 3/0.04]
+support: (6.08cm,6.08cm,0.8mm)
 
 [extrusion: 0.2mm, bevel: 0.01mm/0.005mm, resolution: 1]
 raphael: (3.038mm,3.45mm,1mm)  - (-1.371mm,-1.485mm,1.1mm)
